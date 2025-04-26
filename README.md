@@ -4,3 +4,4 @@ Hi Friends!👋
    As we all know we used to play Rock-Paper-Scissor game in our school time.
   From playing to building the application using Html,Css,Js is amazing.
   Hope you enjoy the game in the way i designed.🤩
+  To play please visit:-https://gundapudivyasri.github.io/Rock-paper-scissor/
